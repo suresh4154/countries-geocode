@@ -9,7 +9,7 @@ group :production do
       gem 'pg'
     end
 gem 'mysql'
-gem "twitter-bootstrap-rails", :group => :assets
+gem "twitter-bootstrap-rails"
 gem 'devise'
 gem 'rails_admin'
 gem 'cancan'
